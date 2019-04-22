@@ -1,0 +1,25 @@
+{
+  "name": "amex-pokeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshatvasudev/amex-pokeAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshatvasudev/amex-pokeAPI/issues"
+  },
+  "homepage": "https://github.com/akshatvasudev/amex-pokeAPI#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "create-react-app": "^2.1.8",
+    "express": "^4.16.4",
+    "react-router-dom": "^5.0.0"
+  }
+}
