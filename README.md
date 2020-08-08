@@ -1,1 +1,1 @@
-# amex-pokeAPI
+# Pokemon API App
